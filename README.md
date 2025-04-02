@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
+<div align="center">
   <h1>Hi I'm Nawon 👋</h1>
 </div><br>
 
-<div>
+<div align="center">
 🎓 Computer Science Major  <br>
 📚 Currently learning Spring & React    
 </div>
 
 
-<div align=center><h2>📚 STACKS</h2></div><br>
+<div align="center"><h2>📚 STACKS</h2></div><br>
 
-<div align=center> 
+<div align="center"> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"><br>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div><br>
 
-<div align=center><h2>⚒️ Tools </h2></div><br>
+<div align="center"><h2>⚒️ Tools </h2></div><br>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Visual Studio Code-308BE3?style=for-the-badge&logo=&logoColor=white">
@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-<div align=center><h2>👩🏻‍💻 Contact Me..</h2></div>
+<div align="center"><h2>👩🏻‍💻 Contact Me..</h2></div>
 
-<div align=center>
+<div align="center">
  <a href="mailto:nw980202@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:">
  </a>
