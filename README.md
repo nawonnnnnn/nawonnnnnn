@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Hi I'm Nawon 👋</h1>
-</div><br>
+</div>
 
 <div align="center">
 🎓 Computer Science Major  <br>
 📚 Currently learning Spring & React    
 </div>
-
+<br>
 
 <div align="center"><h2>📚 STACKS</h2></div><br>
 
