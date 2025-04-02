@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div><br>
 
 <div align="center">
-  🔗 http://rumi.null-pointer-exception.com/
+  <span> 🔗 http://rumi.null-pointer-exception.com/ </span>
 </div>
 
 <div align="center"><h2>📚 Stacks</h2></div><br>
