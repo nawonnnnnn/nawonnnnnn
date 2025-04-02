@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div><br>
 
 <div>
-🎓 Computer Science Major  
+🎓 Computer Science Major  <br>
 📚 Currently learning Spring & React    
 </div>
 
