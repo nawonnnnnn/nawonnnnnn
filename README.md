@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-🎓 Computer Science Major  <br>
-📚 Currently learning Spring & React    
+<h4>🎓 Computer Science Major</h4>  <br>
+<h4>📚 Currently learning Spring & React</h4>    
 </div>
 <br>
 
