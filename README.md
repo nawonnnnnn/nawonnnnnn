@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
  <h1 style="margin-bottom: 0;">Hi I'm Nawon 👋</h1>
-</div><br>
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div><br>
 
