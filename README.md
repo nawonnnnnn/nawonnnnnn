@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div><br><br>
 -->
 
-<div align="center"><h2>📚 Stacks</h2></div><br>
+<div align="center"><h2>📚 Stacks</h2></div>
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div><br>
 
-<div align="center"><h2>⚒️ Tools </h2></div><br>
+<div align="center"><h2>⚒️ Tools </h2></div>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Visual Studio Code-308BE3?style=for-the-badge&logo=&logoColor=white">
