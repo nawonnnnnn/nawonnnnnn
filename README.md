@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-  <h1 style="margin: 0; padding: 0;">Hi I'm Nawon 👋</h1>
-
+<div align=center>
+  <h1 style="border-bottom: none;">Hi I'm Nawon 👋</h1>
+</div>
 
 <div align=center><h2>📚 STACKS</h2></div><br>
 
