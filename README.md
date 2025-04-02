@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <span style="font-size: 32px; font-weight: bold;">Hi I'm Nawon 👋</span>
-</div>
+  <h1>Hi I'm Nawon 👋</h1>
+</div><br>
 
 <div align=center><h2>📚 STACKS</h2></div><br>
 
