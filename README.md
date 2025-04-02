@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <h1 style="margin: 0; padding: 0; border-bottom: none; display: inline-block;">Hi I'm Nawon 👋</h1>
+  <span style="font-size: 32px; font-weight: bold;">Hi I'm Nawon 👋</span>
 </div>
 
 <div align=center><h2>📚 STACKS</h2></div><br>
