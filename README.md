@@ -17,6 +17,12 @@ Here are some ideas to get you started:
   <h1>Hi I'm Nawon 👋</h1>
 </div><br>
 
+<div>
+🎓 Computer Science Major  
+📚 Currently learning Spring & React    
+</div>
+
+
 <div align=center><h2>📚 STACKS</h2></div><br>
 
 <div align=center> 
