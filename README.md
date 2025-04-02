@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
- Hi I'm Nawon 👋
+ <h1>Hi I'm Nawon 👋</h1>
 </div><br>
 
 <div align=center><h1>📚 STACKS</h1></div>
