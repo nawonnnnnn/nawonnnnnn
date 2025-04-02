@@ -1,5 +1,3 @@
-## Hi I'm Nawon 👋
-
 <!--
 **nawonnnnnn/nawonnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+ Hi I'm Nawon 👋
+</div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -26,6 +28,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+</div>
 
+<div align=center><h1>💻 Tools </h1></div>
+
+<div align=center>
+<img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
  
 </div>
