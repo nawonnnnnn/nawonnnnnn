@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <p style="font-size: 80px; font-weight: bold; margin-bottom: 0;">Hi I'm Nawon 👋</p>
+  <p style="font-size: 100px; font-weight: bold; margin-bottom: 0;">Hi I'm Nawon 👋</p>
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div><br>
