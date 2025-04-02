@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 <img src="https://img.shields.io/badge/Visual Studio Code-308BE3?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"><br>
 <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
