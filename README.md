@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <p style="font-size: 100px; font-weight: bold; margin-bottom: 0;">Hi I'm Nawon 👋</p>
+  <h1 style="font-size: 100px; font-weight: bold; margin-bottom: 0;">Hi I'm Nawon 👋</h1>
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div><br>
+<div align=center><h2>📚 STACKS</h2></div><br>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div><br>
 
-<div align=center><h1>⚒️ Tools </h1></div><br>
+<div align=center><h2>⚒️ Tools </h2></div><br>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Visual Studio Code-308BE3?style=for-the-badge&logo=&logoColor=white">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-<div align=center><h1>👩🏻‍💻 Contact Me..</h1></div>
+<div align=center><h2>👩🏻‍💻 Contact Me..</h2></div>
 
 <div align=center>
  <a href="mailto:nw980202@gmail.com">
